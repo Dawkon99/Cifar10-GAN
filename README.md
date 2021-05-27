@@ -1,2 +1,2 @@
 # Cifar10-GAN
-GAN for Cifar10 dataset
+GAN to generate images from cifar10 dataset.
